@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.restassured.RestassuredSpotify" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-27T16:32:26" hostname="LAPTOP-22472JL6" time="9.654">
+  <properties/>
+  <testcase name="searchTrack" classname="com.bridgelabz.restassured.RestassuredSpotify" time="9.654"/>
+  <system-out><![CDATA[{
+    "error": {
+        "status": 401,
+        "message": "The access token expired"
+    }
+}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
